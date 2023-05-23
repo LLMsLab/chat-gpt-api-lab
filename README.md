@@ -22,7 +22,7 @@ contributing, please start by reading our
 
 If you're new to the project or open source in general, we recommend
 starting with issues labeled as ["Good First
-Issue"](https://github.com/LLMsLab/langchain-lab/issues/1). These
+Issue"](https://github.com/LLMsLab/chat-gpt-api-lab/issues/1). These
 issues are typically more straightforward and a great way to get started
 with the project.
 
